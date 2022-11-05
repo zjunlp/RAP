@@ -1,7 +1,7 @@
 # RAP
 
-Code for our paper "Schema-aware Reference as Prompt Improves Data-Efficient
-Relational Triple and Event Extraction".
+Code for our paper "[Schema-aware Reference as Prompt Improves Data-Efficient
+Relational Triple and Event Extraction](https://arxiv.org/pdf/2210.10709.pdf)".
 
 <div align=center><img src="./img/architecture.jpg" width="80%" height="80%" /></div>
 
@@ -48,3 +48,29 @@ The code of above base models are borrowed from their original codes with slight
 **RelationPrompt** : Please follow the instruction [here](./BaseModel/RelationPrompt/README.md).
 
 **Text2Event** : Please follow the instruction [here](./BaseModel/Text2Event/README.md).
+
+# Citation
+If you use the code, please cite the following paper:
+
+```bibtex
+@article{DBLP:journals/corr/abs-2210-10709,
+  author    = {Yunzhi Yao and
+               Shengyu Mao and
+               Xiang Chen and
+               Ningyu Zhang and
+               Shumin Deng and
+               Huajun Chen},
+  title     = {Schema-aware Reference as Prompt Improves Data-Efficient Relational
+               Triple and Event Extraction},
+  journal   = {CoRR},
+  volume    = {abs/2210.10709},
+  year      = {2022},
+  url       = {https://doi.org/10.48550/arXiv.2210.10709},
+  doi       = {10.48550/arXiv.2210.10709},
+  eprinttype = {arXiv},
+  eprint    = {2210.10709},
+  timestamp = {Tue, 25 Oct 2022 14:25:08 +0200},
+  biburl    = {https://dblp.org/rec/journals/corr/abs-2210-10709.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+```
