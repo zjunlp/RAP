@@ -1,7 +1,6 @@
 # RAP
 
-Code for our paper "Schema-aware Reference as Prompt Improves Data-Efficient
-Relational Triple and Event Extraction".
+Code for our paper "Schema-aware Reference as Prompt Improves Data-Efficient Knowledge Graph Construction".
 
 <div align=center><img src="./img/architecture.jpg" width="80%" height="80%" /></div>
 
