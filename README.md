@@ -2,7 +2,7 @@
 
 Code for our paper "Schema-aware Reference as Prompt Improves Data-Efficient Knowledge Graph Construction".
 
-<div align=center><img src="./img/architecture.jpg" width="80%" height="80%" /></div>
+<div align=center><img src="./img/architecture.jpg" width="100%" height="80%" /></div>
 
 ## Requirements
 
