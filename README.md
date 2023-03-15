@@ -10,9 +10,19 @@ Code for our paper "Schema-aware Reference as Prompt Improves Data-Efficient Kno
 Java 8 # for elasticsearch
 elasticsearch==7.17.1
 ```
-* This requirement is for retrieving tools.
+
 
 ## Retrieving for Reference
+
+The reference store can be downloaded from [here](https://drive.google.com/file/d/1lQW0nrMZzpyltuUKCMbmWw67yeejh1Qw/view?usp=sharing). Unzip the file and put the folder `store/` into `retrieval/`
+folder, and the final directory structure is as follows:
+
+```text
+retrieval
+├── store/
+├── retrieve.py
+└── retrieve_utils.py
+```
 
 For different base models, you can generate the reference by following codes:
 
