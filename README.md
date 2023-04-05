@@ -1,6 +1,6 @@
 # RAP
 
-Code for our paper "Schema-aware Reference as Prompt Improves Data-Efficient Knowledge Graph Construction".
+Code for the SIGIR2023 paper "Schema-aware Reference as Prompt Improves Data-Efficient Knowledge Graph Construction".
 
 <div align=center><img src="./img/architecture.jpg" width="100%" height="80%" /></div>
 
